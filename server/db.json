@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "name": "Nageshwar Pundlikrao Pawar",
+      "email": "user@gmail.com",
+      "address": "at wakhari tq basmath dist hingoli - 431512",
+      "password": "$2b$10$ACG9QlctuTS7bJxnNoTSMePY7x7zwlEhk1nm39drFWdTIu469hoga",
+      "role": "store_owner",
+      "id": "1757445014504",
+      "storeId": "1757456150094"
+    },
+    {
+      "name": "sambhaji balajirao dhore",
+      "email": "owner@gmail.com",
+      "address": "at wakhari tq basmath dist hingoli - 431512",
+      "password": "$2b$10$xUBNWodLZumr/wyutl82/.Se.YlD97Up1js118WIudct2IF.M0sdG",
+      "role": "store_owner",
+      "id": "1757445014505"
+    },
+    {
+      "name": "bhakti ganeshrao tour",
+      "email": "admin@gmail.com",
+      "address": "at wakhari tq basmath dist hingoli - 431512",
+      "password": "$2b$10$nRxpKNUsrUY0cs9Y1cWIZOrpl90UktGbYJ89EOhQREUwvE7RbsQke",
+      "role": "admin",
+      "id": "1757445014506"
+    },
+    {
+      "id": "77a4",
+      "name": "Nageshwar Pawar Nageshwar Pawar ",
+      "email": "test@gmail.com",
+      "address": "Nageshwar PawarNageshwar Pawar Nageshwar Pawar Nageshwar Pawar",
+      "password": "$2b$10$yBrsreIZIz8NNuGb.UitmOo6KXTa7QdmerINEMWfg97llPfwj9GBa",
+      "role": "user"
+    },
+    {
+      "id": "7edd",
+      "name": "Test Test Test Test Test Test Test Test Test Test",
+      "email": "test4@gmail.com",
+      "address": "Test Test Test Test Test Test Test Test Test Test",
+      "password": "$2b$10$54qykaG.dTHgOvS3trGS4O0B5oEHZegjm9nU2oVY9TTCdzKoKFnCK",
+      "role": "store_owner"
+    },
+    {
+      "id": "7ce1",
+      "name": "Testing Testing Testing",
+      "email": "testing@gmail.com",
+      "address": "Testing Testing TestingTesting Testing",
+      "password": "$2b$10$3J7FinYqFDFIfholpW5hIuOOqUNA3hye/ocQFNxVwrH.2gv66HqcK",
+      "role": "user"
+    }
+  ],
+  "stores": [
+    {
+      "id": "1757456150094",
+      "name": "My New Added Store My New Added Store",
+      "email": "mystore@gmail.com",
+      "address": "My New Added Store My New Added Store My New Added Store My New Added Store",
+      "ownerId": "1757445014504",
+      "ratings": [],
+      "averageRating": 0
+    }
+  ],
+  "ratings": [
+    {
+      "id": "1757459162367",
+      "userId": "7ce1",
+      "storeId": "1757456150094",
+      "rating": 3,
+      "createdAt": "2025-09-09T23:06:02.367Z"
+    }
+  ]
+}
